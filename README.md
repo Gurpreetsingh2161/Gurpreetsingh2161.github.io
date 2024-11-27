@@ -6,10 +6,10 @@ Hello! I'm Gurpreet Singh, a passionate student, currently pursuing my Masters i
 
 # Project
 
-### [1.Random Password Generator](https://gurpreetsingh2161.github.io/Random-Password-Generator/)
+### [1.Random Password Generator](https://github.com/Gurpreetsingh2161/Random-Password-Generator.git)
 
-### [2.Snake Game](https://gurpreetsingh2161.github.io/Snake-Game/)
+### [2.Snake Game](https://github.com/Gurpreetsingh2161/Snake-Game.git)
 
-### [3.Simple GUI Calculator](https://gurpreetsingh2161.github.io/Simple-GUI-Calculator/)
+### [3.Simple GUI Calculator](https://github.com/Gurpreetsingh2161/Simple-GUI-Calculator.git)
 
-### [4.Simple Reminder Application](https://github.com/DsZeno-byte/Python_Project_4)
+### [4.Simple Reminder Application](https://github.com/Gurpreetsingh2161/Simple-Reminder-Application.git)
